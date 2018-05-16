@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kelvinkamau.github.io/sitemap.xml

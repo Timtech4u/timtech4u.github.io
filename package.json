@@ -1,0 +1,27 @@
+{
+  "name": "kelvinkamau.github.io",
+  "version": "3.0.0",
+  "description": "Detail-oriented software engineer passionate about combining beautiful code with beautiful design.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelvin Kamau",
+  "license": "ISC",
+  "devDependencies": {
+    "@nuscout/eslint-config": "^0.2.1",
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "3.9.0",
+    "gulp-eslint": "4.0.2",
+    "gulp-imagemin": "4.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kelvinkamau/"
+  },
+  "homepage": "https://github.com/kelvinkamau/"
+}

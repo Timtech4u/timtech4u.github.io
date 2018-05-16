@@ -1,0 +1,68 @@
+- name: FormFireJS
+  url: https://github.com/kelvinkamau/FormFireJS
+  code: https://github.com/kelvinkamau/FormFireJS
+  description: Send all form data from your website contact form to the <a href="https://console.firebase.google.com/">Firebase</a> real-time database.
+  used:
+    - thing: Firebase
+    - thing: JavaScript
+    - thing: GitHub
+    - thing: Client-side
+    - thing: Web
+
+- name: ChapChapSQL
+  url: https://github.com/kelvinkamau/ChapChapSQL
+  code: https://github.com/kelvinkamau/ChapChapSQL
+  description: A light weight Plug n Play PHP library for performing swift SQL operations securely.
+  used:
+    - thing: PHP7
+    - thing: MySQL
+    - thing: PHP Library
+    - thing: Server-Side
+    - thing: Web
+
+- name: PayPalOnLaravel
+  url: https://github.com/kelvinkamau/PayPalOnLaravel
+  code: https://github.com/kelvinkamau/PayPalOnLaravel
+  description: Manage your web payments with ease with this Plug n Play PHP Laravel library.
+  used:
+    - thing: PHP
+    - thing: Server-Side
+    - thing: Payment
+    - thing: Web
+
+- name: sendEmail
+  url: https://github.com/kelvinkamau/sendEmail
+  code: https://github.com/kelvinkamau/sendEmail
+  description: Takes user input from a website's contact form and delivers to your email address.
+  used:
+    - thing: PHP7
+    - thing: Email
+    - thing: Delivery API
+    - thing: Web
+
+- name: GDG Kisii App
+  url: https://github.com/kelvinkamau/sendEmail
+  code: https://github.com/kelvinkamau/sendEmail
+  description: An information app to help manage our GDG developer community effectively by levereging on it to update members on upcoming events, community resources as well as important announcements.
+  used:
+    - thing: Java
+    - thing: Firebase
+    - thing: Android
+
+- name: DynamicProgramming
+  url: https://github.com/kelvinkamau/DynamicProgramming
+  code: https://github.com/kelvinkamau/DynamicProgramming
+  description:  A collection of solutions like Fibonacci, counting steps using dynamic programming in C++
+  used:
+    - thing: C++
+    - thing: Random
+
+- name: WebPuzzleGame
+  url: https://github.com/kelvinkamau/WebPuzzleGame
+  code: https://github.com/kelvinkamau/WebPuzzleGame
+  description:  HTML Puzzle Game - Average & Difficult Level
+  used:
+    - thing: HTML
+    - thing: Random
+
+

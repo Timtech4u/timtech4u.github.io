@@ -1,0 +1,27 @@
+languages:
+  - item: JavaScript (ES6)
+  - item: TypeScript
+  - item: HTML/CSS/Sass
+  - item: Java
+  - item: SQL
+
+frameworks:
+  - item: Vue
+  - item: React
+  - item: Jekyll
+  - item: NodeJS
+  - item: Cordova
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: Gulp & Grunt
+  - item: Chrome DevTools
+  - item: Firebase
+
+design:
+  - item: Illustrator
+  - item: InVision
+  - item: Prototyping
+  - item: Wireframing
+  - item: User Testing

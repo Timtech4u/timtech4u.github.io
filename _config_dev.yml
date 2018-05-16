@@ -1,0 +1,45 @@
+# Site settings
+name: Kelvin Kamau
+title: Kelvin Kamau | Software Engineer
+description: Detail oriented software engineer passionate about combining beautiful code with beautiful design.
+url: https://kelvinkamau.github.io/
+baseurl: ""
+email: kelvinkamau6808@gmail.com
+cover: https://github.com/kelvinkamau/kelvinkamau.github.io/og.png
+logo: https://kelvinkamau.github.io/img/icon.png
+resume: https://kelvinkamau.github.io/
+social:
+  - title: email
+    url: mailto:kelvinkamau6808@gmail.com
+  - title: twitter
+    url: https://twitter.com/justkeykay
+  - title: instagram
+    url: https://instagram.com/justkeykay
+  - title: codepen
+    url: http://codepen.io/kelvinkamau
+  - title: github
+    url: https://github.com/kelvinkamau
+  - title: linkedin
+    url: https://www.linkedin.com/in/kelvinkamau
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.gemspec"
+  - "README.md"
+  - "node_modules"
+  - "build"
+  - "gulpfile.js"
+  - "package.json"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+plugins:
+  - jekyll-minifier
+  - jekyll-sitemap
