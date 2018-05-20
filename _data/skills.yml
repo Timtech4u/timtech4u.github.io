@@ -7,7 +7,7 @@ languages:
 
 frameworks:
   - item: Vue.js
-  - item: React & React Native
+  - item: React Native
   - item: Jekyll
   - item: NodeJS
   - item: Cordova
