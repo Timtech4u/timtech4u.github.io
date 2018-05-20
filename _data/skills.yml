@@ -6,8 +6,8 @@ languages:
   - item: SQL
 
 frameworks:
-  - item: Vue
-  - item: React
+  - item: Vue.js
+  - item: React & React Native
   - item: Jekyll
   - item: NodeJS
   - item: Cordova
