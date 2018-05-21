@@ -65,4 +65,12 @@
     - thing: HTML
     - thing: Random
 
-
+- name: Ultimate PWA CheatSheet
+  url: https://github.com/kelvinkamau/PWACheatSheet
+  code: https://github.com/kelvinkamau/PWACheatSheet
+  description:  The Ultimate Progressive Web App CheatSheet to make your existing website to a PWa in less than 5 mins
+  used:
+    - thing: Offline
+    - thing: JavaScript
+    - thing: Client-side Web
+    - thing: Web to PWA
