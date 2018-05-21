@@ -1,7 +1,7 @@
 - name: FormFireJS
   url: https://github.com/kelvinkamau/FormFireJS
   code: https://github.com/kelvinkamau/FormFireJS
-  description: Send all form data from your website contact form to the <a href="https://console.firebase.google.com/">Firebase</a> real-time database.
+  description: Send all form data from your website contact form to the <a href="https://firebase.google.com/">Firebase</a> real-time database.
   used:
     - thing: Firebase
     - thing: JavaScript
