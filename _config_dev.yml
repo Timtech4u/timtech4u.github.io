@@ -1,22 +1,18 @@
 # Site settings
 name: Kelvin Kamau
-title: Kelvin Kamau | Software Engineer
+title: Kelvin Kamau | Software Developer
 description: Detail oriented software engineer passionate about combining beautiful code with beautiful design.
 url: https://www.kelvinkamau.app
 baseurl: ""
-email: kelvinkamau6808@gmail.com
+email: kchat@kelvinkamau.app
 cover: https://www.kelvinkamau.app/og.png
 logo: https://www.kelvinkamau.app/img/icon.png
 resume: https://www.kelvinkamau.app
 social:
-  - title: email
-    url: mailto:chat@kelvinkamau.app
   - title: twitter
-    url: https://twitter.com/justkeykay
+    url: https://twitter.com/kamaucodes
   - title: instagram
     url: https://instagram.com/justkeykay
-  - title: codepen
-    url: https://codepen.io/kelvinkamau
   - title: github
     url: https://github.com/kelvinkamau
   - title: linkedin
