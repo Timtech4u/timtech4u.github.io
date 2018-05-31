@@ -6,11 +6,11 @@
             <div class="job">
                 <div class="time-place">
                     <div class="job__company">
-                        <a href="{{job.url}}" target="_blank">{{job.company}}</a>
+                        <a href="{{job.url}}" target="_blank">{{job.title}}</a>
                     </div>
-                    <div class="job__time">{{job.time}}</div>
+                    <div class="job__time">{{job.date}}</div>
                 </div>
-                <div class="job__position">{{job.position}}</div>
+                <div class="job__position">{{job.role}}</div>
             </div>
             {% endfor %}
         </div>

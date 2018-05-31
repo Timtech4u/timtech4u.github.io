@@ -1,39 +1,39 @@
-- company: DevFest Western Kenya, Kisumu
+- title: DevFest Western Kenya, Kisumu
   url: https://www.amazingkisumu.co.ke/2017/11/23/gdg-developers-festival-western-kenya/
-  time: 25th November 2017
-  position: Co-Organizer & Speaker
+  date: 25th November 2017
+  role: Co-Organizer & Speaker
 
-- company: Mobile Sites Certification Study Jam
+- title: Mobile Sites Study Jam, Kisii
   url: https://www.meetup.com/GDG-Kisii/events/246008786/
-  time: 10th January 2018
-  position: Organizer & Mobile Web Speaker
+  date: 10th January 2018
+  role: Organizer & Speaker
 
-- company: Atlassian - Team Collaboration Tools & Practices
+- title: Atlassian Team Collaboration Tools & Practices, Kisii
   url: https://aug.atlassian.com/events/details/atlassian-nairobi-presents-team-collaboration-tools-and-practices-1
-  time: 23rd February 2018
-  position: Organizer & Host
+  date: 23rd February 2018
+  role: Organizer & Moderator
 
-- company: UNESCO ODLTG Training, Kisumu
+- title: UNESCO ODLTG Training, Kisumu
   url: http://www.unesco.org/new/en/member-states/single-view/news/young_people_develop_mobile_applications_for_preservation_of/
-  time: 25th Apr 2018 - 27th Apr 2018
-  position: Team Leader
+  date: 25th Apr 2018 - 27th Apr 2018
+  role: Team Leader
 
-- company: WTM IWD Summit Extended, Kisii
+- title: WTM IWD Summit Extended, Kisii
   url: https://www.meetup.com/GDG-Kisii/events/249385450/
-  time: 28th April 2018
-  position: Co-Organizer & Firebase Speaker
+  date: 28th April 2018
+  role: Co-Organizer & Speaker
 
-- company: Andela Learning Communtiy 3.0, Nakuru
+- title: Andela Learning Communtiy 3.0, Nakuru
   url: https://www.eventbrite.com/o/andela-learning-community-nakuru-16475574329
-  time: May 2018 - To Date
-  position: Android Intermediate Mentor
+  date: May 2018 - To Date
+  role: Android Intermediate Mentor
 
-- company: TensorFlow Dev Summit Extended, Kisii
+- title: TensorFlow Dev Summit Extended, Kisii
   url: https://www.meetup.com/GDG-Kisii/events/250932634/
-  time: 2nd June 2018
-  position: Organizer
+  date: 2nd June 2018
+  role: Organizer
 
-- company: TechYard Mob Sessions, Hangouts
+- title: TechYard Mob Sessions, Hangouts
   url: https://hangouts.google.com/call/jilBdxSoSVeDIx9nfj94AAEI
-  time: Every Friday 6PM
-  position: JavaScript Facilitator
+  date: Every Friday 6PM
+  role: JavaScript Facilitator
