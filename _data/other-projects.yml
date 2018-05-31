@@ -23,7 +23,7 @@
 - name: PayPalOnLaravel
   url: https://github.com/kelvinkamau/PayPalOnLaravel
   code: https://github.com/kelvinkamau/PayPalOnLaravel
-  description: Manage your web payments with ease with this Plug n Play PHP Laravel library.
+  description: By using this plugin you can process or refund payments and handle IPN (Instant Payment Notification) from PayPal in your Laravel application.
   used:
     - thing: PHP
     - thing: Server-Side
