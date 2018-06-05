@@ -1,19 +1,33 @@
+<style type="text/css">
+    @media only screen and (min-width: 768px) {
+        .sharethis-inline-reaction-buttons {
+            float: left;
+            width: 20%;
+        }
+    }
+    @media only screen and (max-width: 768px) {
+        .sharethis-inline-reaction-buttons {
+         display: none;
+        }
+    }
+</style>
 <footer class="footer">
-  <div class="footer__copyright">
-    <div class="top">
-      <span>Made with ❤ in </span>
+    <div class="footer__copyright">
+        <div class="top">
+            <span>Made with ❤ in </span>
+        </div>
+        <div class="bottom">
+            <a href="{{site.baseurl}}"> <span>Nairobi, Kenya</span></a>
+            <img class="emoji" src="{{site.baseurl}}/img/emojis/rockon.png" alt="emoji">
+        </div>
     </div>
-    <div class="bottom">
-     <a href="{{site.baseurl}}"> <span>Nairobi, Kenya</san></a>
-      <img class="emoji" src="{{site.baseurl}}/img/emojis/rockon.png" alt="emoji">
+    <div class="sharethis-inline-reaction-buttons"></div>
+    <div class="footer__links">
+        {% for link in site.social %}
+        <a href="{{link.url}}" target="_blank" title="{{link.title}}">
+            <span class="text">{{link.title}}</span>
+            <img src="{{site.baseurl}}/img/social/{{link.title}}.svg" alt="{{link.title}}">
+        </a>
+        {% endfor %}
     </div>
-  </div>
-  <div class="footer__links">
-    {% for link in site.social %}
-    <a href="{{link.url}}" target="_blank" title="{{link.title}}">
-      <span class="text">{{link.title}}</span>
-      <img src="{{site.baseurl}}/img/social/{{link.title}}.svg" alt="{{link.title}}">
-    </a>
-    {% endfor %}
-  </div>
 </footer>
