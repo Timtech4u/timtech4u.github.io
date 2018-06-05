@@ -1224,10 +1224,3 @@ strong {
     -webkit-transform: translateY(-5px);
     transform: translateY(-5px)
 }
-@media only screen and (min-width: 768px) {
-    .mobile-only {
-        display: none; } }
-
-@media only screen and (max-width: 768px) {
-    .pc-only {
-        display: none; } }
