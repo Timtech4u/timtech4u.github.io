@@ -1,6 +1,6 @@
 languages:
   - item: JavaScript (ES6)
-  - item: TypeScript
+  - item: Python (Django)
   - item: HTML/CSS/Sass
   - item: Java
   - item: SQL
@@ -8,7 +8,7 @@ languages:
 frameworks:
   - item: Vue.js
   - item: React Native
-  - item: Jekyll
+  - item: Jasmine
   - item: NodeJS
   - item: Cordova
 

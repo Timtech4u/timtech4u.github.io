@@ -40,15 +40,6 @@
     - thing: Delivery API
     - thing: Web
 
-- name: GDG Kisii App
-  url: https://github.com/kelvinkamau/sendEmail
-  code: https://github.com/kelvinkamau/sendEmail
-  description: An information app to help manage our GDG developer community effectively by levereging on it to update members on upcoming events, community resources as well as important announcements.
-  used:
-    - thing: Java
-    - thing: Firebase
-    - thing: Android
-
 - name: DynamicProgramming
   url: https://github.com/kelvinkamau/DynamicProgramming
   code: https://github.com/kelvinkamau/DynamicProgramming
@@ -68,9 +59,9 @@
 - name: Ultimate PWA CheatSheet
   url: https://github.com/kelvinkamau/PWACheatSheet
   code: https://github.com/kelvinkamau/PWACheatSheet
-  description:  The Ultimate Progressive Web App CheatSheet to make your existing website to a PWa in less than 5 mins
+  description:  The Ultimate Progressive Web App CheatSheet to make your existing HTML5 website a PWA in less than 5 mins
   used:
-    - thing: Offline
+    - thing: PWA
     - thing: JavaScript
-    - thing: Client-side Web
-    - thing: Web to PWA
+    - thing: Client-side
+    - thing: Web

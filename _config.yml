@@ -1,10 +1,11 @@
 # Site settings
 name: Kelvin Kamau
 title: Kelvin Kamau | Software Developer
-description: Detail oriented software engineer passionate about combining beautiful code with beautiful design.
+description: Google Student Ambassador, Computer Science Student & a Techprenuer passionate about creating & delivering global solutions.
 url: https://www.kelvinkamau.app
 baseurl: ""
 email: chat@kelvinkamau.app
+keywords: kelvin kamau, software engineer, computer science, kelvin, kamau, wachira
 cover: https://www.kelvinkamau.app/og.png
 logo: https://www.kelvinkamau.app/img/icon.png
 resume: https://www.kelvinkamau.app
