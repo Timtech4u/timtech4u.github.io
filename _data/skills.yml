@@ -3,17 +3,14 @@ languages:
   - item: Python (Django)
   - item: HTML/CSS/Sass
   - item: Java
-  - item: SQL
 
 frameworks:
   - item: Vue.js
   - item: React Native
   - item: Jasmine
   - item: NodeJS
-  - item: Cordova
 
 tools:
-  - item: Bash
   - item: Git & Github
   - item: Gulp & Grunt
   - item: Chrome DevTools
@@ -23,5 +20,4 @@ design:
   - item: Illustrator
   - item: InVision
   - item: Prototyping
-  - item: Wireframing
   - item: User Testing
