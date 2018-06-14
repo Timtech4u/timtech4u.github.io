@@ -3,21 +3,26 @@ languages:
   - item: Python (Django)
   - item: HTML/CSS/Sass
   - item: Java
+  - item: SQL
 
 frameworks:
-  - item: Vue.js
-  - item: React Native
+  - item: Vue
+  - item: React
   - item: Jasmine
   - item: NodeJS
+  - item: Jekyll
 
 tools:
   - item: Git & Github
   - item: Gulp & Grunt
   - item: Chrome DevTools
   - item: Firebase
+  - item: Postman
 
 design:
+  - item: Photoshop
   - item: Illustrator
   - item: InVision
   - item: Prototyping
   - item: User Testing
+

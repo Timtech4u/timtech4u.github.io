@@ -1,18 +1,17 @@
 - name: FormFireJS
   url: https://github.com/kelvinkamau/FormFireJS
   code: https://github.com/kelvinkamau/FormFireJS
-  description: Send all form data from your website contact form to the <a href="https://firebase.google.com/">Firebase</a> real-time database.
+  description: Send all form data from your website contact form to the <a href="https://firebase.google.com/">Firebase</a> real-time database. Developed with a consious effort to avoid using superflous frameworks like JQuery.
   used:
     - thing: Firebase
     - thing: JavaScript
-    - thing: GitHub
     - thing: Client-side
     - thing: Web
 
 - name: ChapChapSQL
   url: https://github.com/kelvinkamau/ChapChapSQL
   code: https://github.com/kelvinkamau/ChapChapSQL
-  description: A light weight Plug n Play PHP library for performing swift SQL operations securely.
+  description: A light weight plug-n-play PHP library for performing swift SQL operations securely. <i><strong>Features include; error logging, prevent SQL injection, error handling, error minification, enable/disable backtrace & custom  error codes.</strong></i>
   used:
     - thing: PHP7
     - thing: MySQL
@@ -23,21 +22,20 @@
 - name: PayPalOnLaravel
   url: https://github.com/kelvinkamau/PayPalOnLaravel
   code: https://github.com/kelvinkamau/PayPalOnLaravel
-  description: By using this plugin you can process or refund payments and handle IPN (Instant Payment Notification) from PayPal in your Laravel application.
+  description: By using this plugin you can process or refund payments 💵 and handle <strong>IPN (Instant Payment Notification)</strong> from PayPal in your Laravel application.
   used:
     - thing: PHP
     - thing: Server-Side
     - thing: Payment
     - thing: Web
 
-- name: sendEmail
+- name: sendEmail 📩
   url: https://github.com/kelvinkamau/sendEmail
   code: https://github.com/kelvinkamau/sendEmail
-  description: Takes user input from a website's contact form and delivers to your email address.
+  description: A simple plug-n-play library that saves you time when getting user input from a website contact form and delivering the data to an email.
   used:
     - thing: PHP7
     - thing: Email
-    - thing: Delivery API
     - thing: Web
 
 - name: DynamicProgramming
@@ -51,15 +49,16 @@
 - name: WebPuzzleGame
   url: https://github.com/kelvinkamau/WebPuzzleGame
   code: https://github.com/kelvinkamau/WebPuzzleGame
-  description:  HTML Puzzle Game - Average & Difficult Level
+  description:  A HTML Puzzle Game where you reconstruct an image from random pieces of the image - It has both Normal & Difficult Levels. Have fun tinkering with the game & code too.
   used:
     - thing: HTML
+    - thing: JavaScript
     - thing: Random
 
-- name: Ultimate PWA CheatSheet
+- name: PWA CheatSheet
   url: https://github.com/kelvinkamau/PWACheatSheet
   code: https://github.com/kelvinkamau/PWACheatSheet
-  description:  The Ultimate Progressive Web App CheatSheet to make your existing HTML5 website a PWA in less than 5 mins
+  description:  The ultimate <strong>Progressive Web App</strong> CheatSheet to make your existing HTML5 website a PWA in less than 5 mins. Follow the steps provided in the readme file.
   used:
     - thing: PWA
     - thing: JavaScript
