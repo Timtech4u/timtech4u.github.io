@@ -1,10 +1,10 @@
 - name: FormFireJS
   url: https://github.com/kelvinkamau/FormFireJS
   code: https://github.com/kelvinkamau/FormFireJS
-  description: Send all form data from your website contact form to the <a href="https://firebase.google.com/">Firebase</a> real-time database. Developed with a consious effort to avoid using superflous frameworks like JQuery.
+  description: Send all form data from your website contact form to the <a href="https://firebase.google.com/">Firebase</a> real-time database.
   used:
-    - thing: Firebase
     - thing: JavaScript
+    - thing: Firebase
     - thing: Client-side
     - thing: Web
 
@@ -24,7 +24,7 @@
   code: https://github.com/kelvinkamau/PayPalOnLaravel
   description: By using this plugin you can process or refund payments 💵 and handle <strong>IPN (Instant Payment Notification)</strong> from PayPal in your Laravel application.
   used:
-    - thing: PHP
+    - thing: Laravel
     - thing: Server-Side
     - thing: Payment
     - thing: Web
@@ -60,7 +60,7 @@
   code: https://github.com/kelvinkamau/PWACheatSheet
   description:  The ultimate <strong>Progressive Web App</strong> CheatSheet to make your existing HTML5 website a PWA in less than 5 mins. Follow the steps provided in the readme file.
   used:
-    - thing: PWA
     - thing: JavaScript
+    - thing: PWA
     - thing: Client-side
     - thing: Web
