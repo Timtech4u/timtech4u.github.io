@@ -11,7 +11,7 @@
 - name: ChapChapSQL
   url: https://github.com/kelvinkamau/ChapChapSQL
   code: https://github.com/kelvinkamau/ChapChapSQL
-  description: A light weight plug-n-play PHP library for performing swift SQL operations securely. <i><strong>Features include; error logging, prevent SQL injection, error handling, error minification, enable/disable backtrace & custom  error codes.</strong></i>
+  description: A light weight plug-n-play PHP library for performing swift SQL operations securely.<strong>Features ; error logging, prevent SQL injection, error handling, error minification, enable/disable backtrace & custom  error codes.</strong>
   used:
     - thing: PHP7
     - thing: MySQL
