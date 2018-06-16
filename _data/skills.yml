@@ -7,7 +7,7 @@ languages:
 
 frameworks:
   - item: Vue
-  - item: React Suspense
+  - item: React
   - item: Jasmine
   - item: NodeJS
   - item: Jekyll
