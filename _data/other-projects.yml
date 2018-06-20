@@ -20,7 +20,7 @@
     - thing: Web
 
 - name: PayPalOnLaravel
-  url: https://github.com/kelvinkamau/PayPalOnLaravel
+  url: https://www.kelvinkamau.app/FormFireJS
   code: https://github.com/kelvinkamau/PayPalOnLaravel
   description: By using this plugin you can process or refund payments 💵 and handle <strong>IPN (Instant Payment Notification)</strong> from PayPal in your Laravel application.
   used:
