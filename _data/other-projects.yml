@@ -1,5 +1,5 @@
 - name: FormFireJS
-  url: https://github.com/kelvinkamau/FormFireJS
+  url: https://www.kelvinkamau.app/FormFireJS
   code: https://github.com/kelvinkamau/FormFireJS
   description: Send all form data from your website contact form to the <a href="https://firebase.google.com/">Firebase</a> real-time database.
   used:
@@ -20,7 +20,7 @@
     - thing: Web
 
 - name: PayPalOnLaravel
-  url: https://www.kelvinkamau.app/FormFireJS
+  url: https://github.com/kelvinkamau/PayPalOnLaravel
   code: https://github.com/kelvinkamau/PayPalOnLaravel
   description: By using this plugin you can process or refund payments 💵 and handle <strong>IPN (Instant Payment Notification)</strong> from PayPal in your Laravel application.
   used:
