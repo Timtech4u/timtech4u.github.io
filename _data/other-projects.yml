@@ -13,7 +13,7 @@
   code: https://github.com/kelvinkamau/ChapChapSQL
   description: A light weight plug-n-play PHP library for performing swift SQL operations securely.<br><strong>Features ; error logging, prevent SQL injection, error handling, error minification, enable/disable backtrace & custom  error codes.</strong>
   used:
-    - thing: PHP7
+    - thing: PHP
     - thing: MySQL
     - thing: PHP Library
     - thing: Server-Side
@@ -34,7 +34,7 @@
   code: https://github.com/kelvinkamau/sendEmail
   description: A simple plug-n-play library that saves you time when getting user input from a website contact form and delivering the data to an email.
   used:
-    - thing: PHP7
+    - thing: PHP
     - thing: Email
     - thing: Web
 
