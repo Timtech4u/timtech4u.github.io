@@ -47,9 +47,9 @@
     - thing: Random
 
 - name: WebPuzzleGame
-  url: https://github.com/kelvinkamau/WebPuzzleGame
+  url: https://www.kelvinkamau.app/WebPuzzleGame/
   code: https://github.com/kelvinkamau/WebPuzzleGame
-  description:  A HTML Puzzle Game where you reconstruct an image from random pieces of the image - It has both Normal & Difficult Levels. Have fun tinkering with the game & code too.
+  description:  A <a href="https://www.kelvinkamau.app/WebPuzzleGame/">HTML Puzzle Game</a> where you reconstruct an image from random pieces of the image - It has both Normal & Difficult Levels. Have fun tinkering with the game & code too.
   used:
     - thing: HTML
     - thing: JavaScript
