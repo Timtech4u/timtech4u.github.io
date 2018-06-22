@@ -1,7 +1,7 @@
 - name: FormFireJS
   url: https://www.kelvinkamau.app/FormFireJS
   code: https://github.com/kelvinkamau/FormFireJS
-  description: A <a href="https://www.kelvinkamau.app/FormFireJS">simple library</a> to help you send all form data from your website contact form to the <a href="https://firebase.google.com/">Firebase</a> real-time database.
+  description: A <a href="https://www.kelvinkamau.app/FormFireJS" target="_blank">simple library</a> to help you send all form data from your website contact form to the <a href="https://firebase.google.com/">Firebase</a> real-time database.
   used:
     - thing: JavaScript
     - thing: Firebase
@@ -49,7 +49,7 @@
 - name: WebPuzzleGame
   url: https://www.kelvinkamau.app/WebPuzzleGame/
   code: https://github.com/kelvinkamau/WebPuzzleGame
-  description:  A <a href="https://www.kelvinkamau.app/WebPuzzleGame/">HTML Puzzle Game</a> where you reconstruct an image from random pieces of the image - It has both Normal & Difficult Levels. Have fun tinkering with the game & code too.
+  description:  A <a href="https://www.kelvinkamau.app/WebPuzzleGame/" target="_blank">HTML Puzzle Game</a> where you reconstruct an image from random pieces of the image - It has both Normal & Difficult Levels. Have fun tinkering with the game & code too.
   used:
     - thing: HTML
     - thing: JavaScript
