@@ -1,6 +1,6 @@
 - name: FormFireJS
-  url: https://www.kelvinkamau.app/FormFireJS
-  code: https://github.com/kelvinkamau/FormFireJS
+  url: https://www.kelvinkamau.app/FormFireJS/
+  code: https://www.kelvinkamau.app/FormFireJS/
   description: A <a href="https://www.kelvinkamau.app/FormFireJS" target="_blank">simple library</a> to help you send all form data from your website contact form to the <a href="https://firebase.google.com/">Firebase</a> real-time database.
   used:
     - thing: JavaScript
@@ -56,8 +56,8 @@
     - thing: Random
 
 - name: PWA CheatSheet
-  url: https://github.com/kelvinkamau/PWACheatSheet
-  code: https://github.com/kelvinkamau/PWACheatSheet
+  url: https://www.kelvinkamau.app/PWACheatSheet/
+  code: https://www.kelvinkamau.app/PWACheatSheet/
   description:  The ultimate <strong>Progressive Web App</strong> CheatSheet to make your existing HTML5 website a PWA in less than 5 mins. Follow the steps provided in the readme file.
   used:
     - thing: JavaScript
