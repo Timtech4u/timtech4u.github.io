@@ -14,7 +14,7 @@
   description: A light weight plug-n-play PHP library for performing swift SQL operations securely.<br><strong>Features ; error logging, prevent SQL injection, error handling, error minification, enable/disable backtrace & custom  error codes.</strong>
   used:
     - thing: PHP
-    - thing: MySQL
+    - thing: SQL
     - thing: PHP Library
     - thing: Server-Side
     - thing: Web
