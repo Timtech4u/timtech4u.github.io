@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <Kelvin Kamau> -- <Software Engineer> -- <@kamaucodes>
+
+# THANKS
+
+    <Kelvin Kamau>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    HTML5, CSS3, JavaScript
