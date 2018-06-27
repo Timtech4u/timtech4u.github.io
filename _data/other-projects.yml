@@ -9,8 +9,8 @@
     - thing: Web
 
 - name: ChapChapSQL
-  url: https://github.com/kelvinkamau/ChapChapSQL
-  code: https://github.com/kelvinkamau/ChapChapSQL
+  url: https://www.kelvinkamau.app/ChapChapSQL/
+  code: https://www.kelvinkamau.app/ChapChapSQL/
   description: A light weight plug-n-play PHP library for performing swift SQL operations securely.<br><strong>Features ; error logging, prevent SQL injection, error handling, error minification, enable/disable backtrace & custom  error codes.</strong>
   used:
     - thing: PHP
