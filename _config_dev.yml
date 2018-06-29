@@ -18,8 +18,8 @@ social:
     url: https://github.com/kelvinkamau
   - title: linkedin
     url: https://www.linkedin.com/in/kelvinkamau
-  - title: privacypolicy
-    url: https://www.kelvinkamau.app/PrivacyPolicy/
+  - title: terms
+    url: https://www.kelvinkamau.app/terms/
 
 # Build settings
 markdown: kramdown
