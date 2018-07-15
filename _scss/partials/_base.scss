@@ -25,7 +25,8 @@ body {
   width: 100%;
 
   &.night {
-    background: #242433;
+    /*background: #242433;*/
+    background: linear-gradient(to right, #002395, #FFFFFF, #ED2939);
      color: $slate;
     ::selection {
       color: $black;
