@@ -18,18 +18,15 @@ body {
   padding: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /*background: #EFF3F6;*/
-  background: linear-gradient(to right, #002395, #FFFFFF, #ED2939);
+  background: #EFF3F6;
   color: $dark-grey;
   font-family: 'Source Sans Pro', sans-serif;
   line-height: 1.5;
   width: 100%;
 
   &.night {
-    /*background: #242433;*/
-    background: linear-gradient(to right, #002395, #FFFFFF, #ED2939);
-    /*color: $slate;*/
-    color: $yellow;
+    background: #242433;
+    color: $slate;
     ::selection {
       color: $black;
       background: $yellow;
