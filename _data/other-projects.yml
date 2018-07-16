@@ -1,7 +1,7 @@
 - name: PingPong Android Game
   url: https://play.google.com/store/apps/details?id=app.kelvinkamau.pingpong
   code: https://github.com/kelvinkamau/PingPong
-  description: Have fun tinkering with this minimalistic game of PingPong. Score by deflecting the ball using the edges of the obstacle.
+  description: Have fun tinkering with this minimalistic game of PingPong. Score by deflecting the ball using the edges of the obstacle. Find the source code <a href="https://github.com/kelvinkamau/PingPong">here</a>.
   used:
     - thing: Java
     - thing: Game Development
