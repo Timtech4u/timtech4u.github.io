@@ -1,16 +1,16 @@
-Source code for [my Offical Portfolio Website](https://www.kelvinkamau.app)
+Source code for [my Official Portfolio Website](https://www.kelvinkamau.app)
 
-#Dependencies
+## Dependencies
+* [Ruby](https://www.ruby-lang.org)
 * [GulpJS](https://gulpjs.com)
-* [Ruby](https://)
 
 ## Usage
 * Run ```gem install jekyll sass bundler jekyll-minifier jekyll sitemap```
 * Run ```npm install```
 * Run ```npm install --save-dev gulp-install```
 
-#### Development
+##### Development
 * Run ```gulp serve```
 
-#### Production
+##### Production
 * Run ```gulp build```
