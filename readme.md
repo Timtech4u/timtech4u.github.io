@@ -12,5 +12,5 @@
 ### Development
 * Run ```gulp serve```
 
-#### Production
+### Production
 * Run ```gulp build```
