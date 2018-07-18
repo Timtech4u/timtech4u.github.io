@@ -1,4 +1,4 @@
-Source code for [my Official Portfolio Website](https://www.kelvinkamau.app)
+## Source code for [my Official Portfolio Website](https://www.kelvinkamau.app)
 
 ## Dependencies
 * [Ruby](https://www.ruby-lang.org)
@@ -9,8 +9,8 @@ Source code for [my Official Portfolio Website](https://www.kelvinkamau.app)
 * Run ```npm install```
 * Run ```npm install --save-dev gulp-install```
 
-##### Development
+### Development
 * Run ```gulp serve```
 
-##### Production
+#### Production
 * Run ```gulp build```
