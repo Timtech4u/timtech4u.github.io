@@ -1,11 +1,11 @@
 - name: Project Vibranium
-  url: http://dsc.kisiiuniversity.ac.ke
+  url: https://github.com/kelvinkamau/Vibranium
   code: https://github.com/kelvinkamau/Vibranium
   description: A web template for DSC Communities in Africa to use to increase visibility of their chapters, access by members & potentials as well as showcase exciting stories.
   used:
-  - thing: ReactJS
+  - thing: HTML5
   - thing: Web Development
-  - thing: Gulp
+  - thing: PWA
 
 - name: PingPong Android Game
   url: https://play.google.com/store/apps/details?id=app.kelvinkamau.pingpong
