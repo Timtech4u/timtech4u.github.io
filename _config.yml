@@ -1,25 +1,25 @@
 # Site settings
 name: Timothy Olaleke
-title: Kelvin Kamau | Software Engineer
+title: TImothy Olaleke | Software Engineer
 description: Timothy Olaleke is a highly motivated software developer with solid understanding of software development best practices. I'm also an open source hobbyist & a community mentor keen to change-makers.👨‍
-url: https://www.kelvinkamau.app
+url: https://timtech4u.github.io
 baseurl: ""
-email: chat@kelvinkamau.app
-keywords: kelvin kamau, engineer, software engineer, computer science, kelvin, kamau, wachira
-cover: https://www.kelvinkamau.app/og.png
-logo: https://www.kelvinkamau.app/img/icon.png
-resume: https://www.kelvinkamau.app
+email: timothyolaleke@gmail.com
+keywords: timothy olaleke, engineer, software engineer, computer science, timtech4u
+cover: #
+logo: #
+resume: #
 social:
   - title: twitter
-    url: https://twitter.com/kamaucodes
-  - title: instagram
-    url: https://instagram.com/justkeykay
+    url: https://twitter.com/timtech4u
+  - title: facebook
+    url: https://facebook.com/timex4u
   - title: github
-    url: https://github.com/kelvinkamau
+    url: https://github.com/timtech4u
   - title: linkedin
-    url: https://www.linkedin.com/in/kelvinkamau
-  - title: terms
-    url: https://www.kelvinkamau.app/terms/
+    url: https://www.linkedin.com/in/timtech4u
+  - title: medium
+    url: https://www.medium.com/@timtech4u
 
 # Build settings
 markdown: kramdown

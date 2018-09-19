@@ -1,28 +1,28 @@
 languages:
   - item: JavaScript (ES6)
   - item: Python (Django)
-  - item: HTML/CSS/Sass
+  - item: HTML/CSS
   - item: Java
   - item: SQL
 
 frameworks:
   - item: Vue
   - item: React
-  - item: Jasmine
+  - item: Express
   - item: NodeJS
-  - item: Jekyll
+  - item: Electron
 
 tools:
   - item: Git & Github
-  - item: Gulp & Grunt
+  - item: Elastic Search
   - item: Chrome DevTools
   - item: Firebase
   - item: Postman
 
-design:
-  - item: Photoshop
-  - item: Illustrator
-  - item: InVision
-  - item: Prototyping
-  - item: User Testing
+deployment:
+  - item: Compute Engine
+  - item: Docker
+  - item: Kubernetes
+  - item: Travis CI
+  - item: DNS Management
 
