@@ -1,59 +1,32 @@
-- title: <s>DevFest Western Kenya, Kisumu</s>
-  url: https://www.amazingkisumu.co.ke/2017/11/23/gdg-developers-festival-western-kenya/
-  date: 25th November 2017
-  role: Co-Organizer & Speaker
 
-- title: <s>Mobile Sites Study Jam, Kisii</s>
-  url: https://www.meetup.com/GDG-Kisii/events/246008786/
-  date: 10th February 2018
-  role: Organizer & Speaker
+- title: Python Conference Nigeria 2018, Lagos
+  url: https://pycon.ng
+  date: 13th - 15th September 2018
+  role: Speaker & Attendee
 
-- title: <s>Atlassian Team Collaboration Tools & Practices, Kisii</s>
-  url: https://aug.atlassian.com/events/details/atlassian-nairobi-presents-team-collaboration-tools-and-practices-1
-  date: 23rd February 2018
-  role: Organizer & Moderator
+- title: DSC SSA Summit 2018, Lagos
+  url: #
+  date: 25th - 28th September 2018
+  role: Attendee
 
-- title: <s>UNESCO ODLTG Training, Kisumu</s>
-  url: http://www.unesco.org/new/en/member-states/single-view/news/young_people_develop_mobile_applications_for_preservation_of/
-  date: April 25-27, 2018
-  role: Developer Team Lead
-
-- title: <s>WTM IWD Summit Extended, Kisii</s>
-  url: https://www.meetup.com/GDG-Kisii/events/249385450/
-  date: 28th April 2018
-  role: Co-Organizer & Speaker
-
-- title: <s>Andela Learning Communtiy 3.0, Nakuru</s>
-  url: https://www.eventbrite.com/o/andela-learning-community-nakuru-16475574329
-  date: 26th May 2018
-  role: Android Intermediate - Facilitator
-
-- title: <s>TensorFlow Dev Summit Extended, Kisii</s>
-  url: https://www.meetup.com/GDG-Kisii/events/250932634/
-  date: 2nd June 2018
+- title: DSC BUK Monthly Meetup, 2018
+  url: http://www.dscbuk.club
+  date: 6th July 2018
   role: Organizer
 
-- title: <s>Andela Learning Communtiy 3.0, Global</s>
-  url: https://hangouts.google.com/hangouts/_/lojvlb4a3bactkgcvura3yrbdme
-  date: 9th June 2018
-  role: Android Intermediate - Facilitator
+- title: Django Girls Kano
+  url: http://www.djangogirls.org/kano
+  date: 1st April 2018
+  role: Organizer & Instructor
 
-- title: <s>DSC SSA Africa Leads Summit, Lagos</s>
-  url: https://gdgkenya.org/directory
-  date: July 25-27, 2018
-  role: Speaker & Delegate
-  
-- title: GDG DevFest Nairobi
-  url: https://www.meetup.com/GDG-Nairobi/events/252860861/
-  date: 22nd September 2018
-  role: Speaker
+- title: Atlassian User Group, Kano
+  url: #
+  date: January 2018
+  role: Co-Organizer & Instructor
 
-- title: DroidConKE, Nairobi
-  url: https://droidcon.co.ke/
-  date: October 5-6, 2018
-  role: Attendee
+  title: CodePyramid Kano Meetup 
+  url: https://www.meetup.com/codepyramidnigeria/
+  date: 2018
+  role: Co-Organizer & Attendee
+
   
-- title: GitHub Universe, San Francisco
-  url: https://githubuniverse.com
-  date: Oct 16-17, 2018
-  role: OSS Delegate
