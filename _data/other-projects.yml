@@ -6,3 +6,11 @@
   - thing: Django
   - thing: Vuejs
   - thing: Multitenancy
+
+- name: Deployer.Host
+  url: http://deployer.host
+  code: https://github.com/Timtech4u/deployer.host
+  description: Dashboard to enable easy deployment and management with Dokku.
+  used:
+  - thing: Django
+  - thing: Dokku
