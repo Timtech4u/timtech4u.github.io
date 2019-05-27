@@ -1,28 +1,27 @@
 languages:
   - item: JavaScript (ES6)
-  - item: Python (Django)
+  - item: Python
   - item: HTML/CSS
-  - item: Java
+  - item: Go
   - item: SQL
 
 frameworks:
   - item: Vue
-  - item: React
+  - item: Django
   - item: Express
   - item: NodeJS
   - item: Electron
 
 tools:
-  - item: Git & Github
+  - item: Git
   - item: Elastic Search
-  - item: Chrome DevTools
+  - item: C|PouchDB
   - item: Firebase
   - item: Postman
 
 deployment:
-  - item: Compute Engine
+  - item: GCP
+  - item: AWS
   - item: Docker
-  - item: Kubernetes
-  - item: Travis CI
-  - item: DNS Management
-
+  - item: Cloud Build
+  - item: Container Registry
