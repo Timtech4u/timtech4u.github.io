@@ -3,20 +3,16 @@
   code: https://github.com/Timtech4u/awesome-cloudbuild
   description: A curated list of resources about all things Google Cloud Build
   used:
-  - thing: Cloud Build
-  - thing: Google Cloud
+  - thing: Google Cloud Build
+  - thing: Google Container Registry
 
-  - name: Full Stack GCP
+- name: Full Stack GCP
   url: https://fullstackgcp.com/
   code: https://fullstackgcp.com/
   description: Learn how to use Google Cloud Platform services by following tutorials on #FullStackGCP.
   used:
-  - thing: Google Cloud Platform
-  - thing: Google Cloud Build
-  - thing: Google Cloud Run
-  - thing: Google Container Registry
-  - thing: Google Cloud Functions
-  
+  - thing: All things Google Cloud Platform
+
 - name: Multi-tenant Employee Manager
   url: http://saidu.myemp.site
   code: https://github.com/Timtech4u/employee-manager
