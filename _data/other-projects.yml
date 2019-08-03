@@ -1,4 +1,23 @@
-- name: Employee Manager
+- name: Awesome Cloud Build
+  url: https://fullstackgcp.com/awesome-cloud-build-cjydaet2g000o5os1v71zb3v4
+  code: https://github.com/Timtech4u/awesome-cloudbuild
+  description: A curated list of resources about all things Google Cloud Build
+  used:
+  - thing: Cloud Build
+  - thing: Google Cloud
+
+  - name: Full Stack GCP
+  url: https://fullstackgcp.com/
+  code: https://fullstackgcp.com/
+  description: Learn how to use Google Cloud Platform services by following tutorials on #FullStackGCP.
+  used:
+  - thing: Google Cloud Platform
+  - thing: Google Cloud Build
+  - thing: Google Cloud Run
+  - thing: Google Container Registry
+  - thing: Google Cloud Functions
+  
+- name: Multi-tenant Employee Manager
   url: http://saidu.myemp.site
   code: https://github.com/Timtech4u/employee-manager
   description: A Multitenant App for Employees Mangement and Available Jobs (WIP) - Built with Django Multitenancy.

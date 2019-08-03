@@ -1,7 +1,12 @@
+- company: Mercurie
+  url: https://mercurie.ng
+  time: May 2019 - To Date
+  position: Software Engineer
+
 - company: Ushahidi
-  url: https://githubcampus.expert/timtech4u
+  url: https://www.ushahidi.com/about
   time: Mar 2019 - Aug 2019
-  position: Google Summer of Code
+  position: Google Summer of Code Intern
 
 - company: Github
   url: https://githubcampus.expert/timtech4u
@@ -31,4 +36,4 @@
 - company: Andela Learning Community
   url: https://andela.com/alcwithgoogle/
   time: Jan 2018 - To Date
-  position: Mentor/Facilitator - Web
+  position: Mentor/Facilitator - Web/Cloud

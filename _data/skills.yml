@@ -6,11 +6,11 @@ languages:
   - item: SQL
 
 frameworks:
-  - item: Vue
   - item: Django
-  - item: Express
+  - item: Flask
+  - item: Vue
   - item: NodeJS
-  - item: Electron
+  - item: Express
 
 tools:
   - item: Git
@@ -20,8 +20,8 @@ tools:
   - item: Postman
 
 deployment:
-  - item: GCP
-  - item: AWS
-  - item: Docker
-  - item: Cloud Build
+  - item: Google Cloud Platform
+  - item: Amazon Web Services
+  - item: Docker & Kubernetes
+  - item: Cloud Build CI/CD
   - item: Container Registry

@@ -10,16 +10,12 @@ cover: #
 logo: #
 resume: #
 social:
-  - title: twitter
-    url: https://twitter.com/timtech4u
-  - title: facebook
-    url: https://facebook.com/timex4u
-  - title: github
-    url: https://github.com/timtech4u
   - title: linkedin
     url: https://www.linkedin.com/in/timtech4u
-  - title: medium
-    url: https://www.medium.com/@timtech4u
+  - title: twitter
+    url: https://twitter.com/timtech4u
+  - title: github
+    url: https://github.com/timtech4u
 
 # Build settings
 markdown: kramdown
