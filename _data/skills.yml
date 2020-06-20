@@ -22,6 +22,6 @@ tools:
 deployment:
   - item: Google Cloud Platform
   - item: Amazon Web Services
+  - item: Microsoft Azure DevOps
   - item: Docker & Kubernetes
-  - item: Cloud Build CI/CD
-  - item: Container Registry
+  - item: Helm Charts

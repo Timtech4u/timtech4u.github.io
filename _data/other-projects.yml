@@ -6,26 +6,49 @@
   - thing: Google Cloud Build
   - thing: Google Container Registry
 
+- name: Cloud Run Warmer
+  url: https://github.com/Timtech4u/cloudrun_warmer
+  code: https://github.com/Timtech4u/cloudrun_warmer
+  description: A warmer service that periodically makes requests to Cloud Run services.
+  used:
+  - thing: Google Cloud Run
+  - thing: Google Cloud Scheduler
+  - thing: Google Cloud Function
+  - thing: Python
+
+- name: Google Cloud Compute Options Guide
+  url: https://github.com/Timtech4u/gcp_compute_options_guide
+  code: https://github.com/Timtech4u/gcp_compute_options_guide
+  description: Guide to decide where to deploy Code on Google Cloud Platform
+  used:
+  - thing: Google Compute Engine
+  - thing: Google App Engine
+  - thing: Google Kubernetes Engine
+  - thing: Google Cloud Run
+  - thing: Firebase
+
 - name: Full Stack GCP
   url: https://fullstackgcp.com/
   code: https://fullstackgcp.com/
   description: Learn how to use Google Cloud Platform services by following tutorials on #FullStackGCP.
   used:
-  - thing: All things Google Cloud Platform
+  - thing: Everything Google Cloud
+
+- name: Flask Firestore
+  url: https://github.com/Timtech4u/flask-firestore
+  code: https://github.com/Timtech4u/flask-firestore
+  description: Building a Flask(Python) CRUD API with Firestore(Firebase) and Deploying on Cloud Run.
+  used:
+  - thing: Python/Flask
+  - thing: Firebase/Firestore
+  - thing: Google Cloud Run
 
 - name: Multi-tenant Employee Manager
-  url: http://saidu.myemp.site
+  url: https://github.com/Timtech4u/employee-manager
   code: https://github.com/Timtech4u/employee-manager
-  description: A Multitenant App for Employees Mangement and Available Jobs (WIP) - Built with Django Multitenancy.
+  description: Multitenant POC for Built with Django Multitenancy.
   used:
   - thing: Django
   - thing: Vuejs
   - thing: Multitenancy
 
-- name: Deployer.Host
-  url: http://deployer.host
-  code: https://github.com/Timtech4u/deployer.host
-  description: Dashboard to enable easy deployment and management with Dokku.
-  used:
-  - thing: Django
-  - thing: Dokku
