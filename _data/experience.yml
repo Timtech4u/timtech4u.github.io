@@ -1,16 +1,26 @@
+- company: Fireflies.ai
+  url: https://fireflies.ai
+  time: Nov 2021 - Present
+  position: Site Reliability Engineer
+
+- company: Nomba (Kudi)
+  url: https://kudi.com/careers
+  time: Oct 2020 - Nov 2021
+  position: DevOps Engineer
+
 - company: Mercurie
   url: https://mercurie.ng
-  time: May 2019 - To Date
-  position: Software Engineer
+  time: May 2019 - Oct 2020
+  position: Software/Cloud Engineer
 
 - company: Ushahidi
   url: https://www.ushahidi.com/about
   time: Mar 2019 - Aug 2019
   position: Google Summer of Code Intern
 
-- company: Github
+- company: GitHub
   url: https://githubcampus.expert/timtech4u
-  time: Feb 2019 - To Date
+  time: Feb 2019 - Dec 2019
   position: Github Campus Expert
 
 - company: eHealth Africa
@@ -25,15 +35,20 @@
 
 - company: HostSpaceNG
   url: http://hostspaceng.com
-  time: Aug 2017 - To Date
-  position: Sys Admin
+  time: Aug 2017 - Present
+  position: Sys Admin / Founder
 
 - company: Developer Student Club
   url: https://dscbuk.club
   time: Class of 2018/2019
   position: Lead
 
+- company: Google Developer Expert
+  url: https://developers.google.com/community/experts/directory/profile/profile-timothy-olaleke
+  time: Dec 2019 - Present
+  position: Cloud Expert
+
 - company: Andela Learning Community
   url: https://andela.com/alcwithgoogle/
-  time: Jan 2018 - To Date
+  time: Jan 2018 - Dec 2019
   position: Mentor/Facilitator - Web/Cloud
