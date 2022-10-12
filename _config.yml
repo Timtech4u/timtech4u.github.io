@@ -1,7 +1,7 @@
 # Site settings
 name: Timothy Olaleke
-title: Timothy Olaleke | Software Engineer
-description: Timothy Olaleke is a highly motivated software developer with solid understanding of software development best practices. I'm also an open source hobbyist & a community mentor keen to change-makers.👨‍
+title: Timothy Olaleke | Software / DevOps Engineer
+description: Software / DevOps Engineer and Google Developer Expert 
 url: https://timtech4u.github.io
 baseurl: ""
 email: timothyolaleke@gmail.com
@@ -13,7 +13,7 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/timtech4u
   - title: twitter
-    url: https://twitter.com/fullstackgcp
+    url: https://twitter.com/timtech4u
   - title: github
     url: https://github.com/timtech4u
 
@@ -27,7 +27,7 @@ exclude:
   - "README.md"
   - "node_modules"
   - "build"
-  - "gulpfile.js"
+  - "gulpfile.js"ßßßßß
   - "package.json"
 
 keep_files:
