@@ -1,27 +1,30 @@
 languages:
   - item: JavaScript (ES6)
   - item: Python
-  - item: HTML/CSS
   - item: Go
   - item: SQL
+  - item: HTML/CSS
 
 frameworks:
   - item: Django
   - item: Flask
-  - item: Vue
-  - item: NodeJS
+  - item: Vue.js
+  - item: Node.js
   - item: Express
+  - item: FastAPI
 
 tools:
   - item: Git
+  - item: Terraform
   - item: Elastic Search
-  - item: C|PouchDB
   - item: Firebase
-  - item: Postman
+  - item: Cloud Build
+  - item: GitOps
 
 deployment:
   - item: Google Cloud Platform
   - item: Amazon Web Services
-  - item: Microsoft Azure DevOps
+  - item: Microsoft Azure
   - item: Docker & Kubernetes
   - item: Helm Charts
+  - item: ArgoCD

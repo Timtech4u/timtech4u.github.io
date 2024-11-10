@@ -1,6 +1,16 @@
+- company: HostSpaceNG
+  url: http://hostspaceng.com
+  time: Aug 2017
+  position: Founder / CEO
+
+- company: Diagrid
+  url: https://diagrid.io
+  time: Apr 2023 - Aug 2024
+  position: Senior Site Reliability Engineer
+
 - company: Fireflies.ai
   url: https://fireflies.ai
-  time: Nov 2021
+  time: Nov 2021 - Mar 2023
   position: Site Reliability Engineer
 
 - company: Nomba (Kudi)
@@ -32,11 +42,6 @@
   url: http://flexisaf.com
   time: Apr 2015 - Aug 2018
   position: Intern / Software Developer
-
-- company: HostSpaceNG
-  url: http://hostspaceng.com
-  time: Aug 2017
-  position: Sys Admin / Founder
 
 - company: Developer Student Club
   url: https://dscbuk.club
