@@ -1,7 +1,7 @@
-- company: HostSpaceNG
-  url: http://hostspaceng.com
-  time: Aug 2017
-  position: Founder / CEO
+- company: HostSpaceCloud Solutions
+  url: http://hostspacecloud.com
+  time: Aug 2024
+  position: Founder
 
 - company: Diagrid
   url: https://diagrid.io
@@ -57,3 +57,8 @@
   url: https://andela.com/alcwithgoogle/
   time: Jan 2018 - Dec 2019
   position: Mentor/Facilitator - Web/Cloud
+
+- company: HostSpaceNG
+  url: http://hostspaceng.com
+  time: Aug 2017
+  position: Founder
