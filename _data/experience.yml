@@ -1,7 +1,17 @@
-- company: HostSpaceCloud Solutions
-  url: http://hostspacecloud.com
-  time: Aug 2024
-  position: Founder
+- company: HostSpace Cloud Solutions
+  url: https://hostspacecloud.com
+  time: Aug 2024 - Present
+  position: Co-Founder & DevOps Consultant
+
+- company: Energy Web Foundation
+  url: https://www.energyweb.org/
+  time: Jul 2022 - Nov 2025
+  position: DevOps/Cloud Engineer (Contract)
+
+- company: TLScontact (Teleperformance)
+  url: https://www.tlscontact.com/
+  time: Jul 2022 - Mar 2024
+  position: DevOps/Cloud Engineer (Contract)
 
 - company: Diagrid
   url: https://diagrid.io
@@ -14,51 +24,21 @@
   position: Site Reliability Engineer
 
 - company: Nomba (Kudi)
-  url: https://kudi.com/careers
-  time: Oct 2020 - Nov 2021
+  url: https://www.nomba.com/
+  time: Sep 2020 - Nov 2021
   position: DevOps Engineer
+
+- company: Deimos (South Africa)
+  url: https://www.deimos.co.za/
+  time: Apr 2020 - Aug 2020
+  position: DevOps Engineer (Contract)
 
 - company: Mercurie
   url: https://mercurie.ng
-  time: May 2019 - Oct 2020
-  position: Software/Cloud Engineer
+  time: May 2019 - Sep 2020
+  position: Cloud & Software Engineer
 
-- company: Ushahidi
+- company: Various (Ushahidi, FlexiSAF, eHealth Africa)
   url: https://www.ushahidi.com/about
-  time: Mar 2019 - Aug 2019
-  position: Google Summer of Code Intern
-
-- company: GitHub
-  url: https://githubcampus.expert/timtech4u
-  time: Feb 2019 - Dec 2019
-  position: Github Campus Expert
-
-- company: eHealth Africa
-  url: http://ehealthafrica.org
-  time: Aug 2018 - April 2019
-  position: GIS Developer Intern
-  
-- company: FlexiSAF Edusoft Limited
-  url: http://flexisaf.com
-  time: Apr 2015 - Aug 2018
-  position: Intern / Software Developer
-
-- company: Developer Student Club
-  url: https://dscbuk.club
-  time: Class of 2018/2019
-  position: Lead
-
-- company: Google Developer Expert
-  url: https://developers.google.com/community/experts/directory/profile/profile-timothy-olaleke
-  time: Dec 2019
-  position: Cloud Expert
-
-- company: Andela Learning Community
-  url: https://andela.com/alcwithgoogle/
-  time: Jan 2018 - Dec 2019
-  position: Mentor/Facilitator - Web/Cloud
-
-- company: HostSpaceNG
-  url: http://hostspaceng.com
-  time: Aug 2017
-  position: Founder
+  time: May 2015 - May 2019
+  position: Intern / Full Stack Developer

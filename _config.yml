@@ -1,11 +1,11 @@
 # Site settings
 name: Timothy Olaleke
-title: Timothy Olaleke | Software / DevOps Engineer
-description: Software / DevOps Engineer and Google Developer Expert 
+title: Timothy Olaleke | Platform Engineer & SRE
+description: Platform Engineer / SRE, GDE Cloud, Kubernetes, IaC, AI infrastructure
 url: https://timtech4u.github.io
 baseurl: ""
 email: timothyolaleke@gmail.com
-keywords: timothy olaleke, engineer, software engineer, computer science, timtech4u
+keywords: timothy olaleke, platform engineer, sre, devops, cloud, kubernetes, timtech4u
 cover: #
 logo: #
 resume: #
