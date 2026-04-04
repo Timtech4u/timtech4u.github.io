@@ -1,17 +1,544 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Timothy Olaleke — Simplifying Cloud Infrastructure</title>
+  <meta name="description" content="Platform Engineer, SRE, Google Developer Expert for Cloud, and Founder of HostSpaceCloud. Based in Kigali, Rwanda.">
+  <meta name="author" content="Timothy Olaleke">
 
-<div id="site">
-    {% include switch.html %}
-    {% include intro.html %}
-    {% include background.html %}
-    {% include skills.html %}
-    {% include experience.html %}
-    {% include featured-projects.html %}
-    {% include other-projects.html %}
-    {% include conferences.html %}
-    {% include footer.html %}
-    {% include top-button.html %}
+  <meta property="og:title" content="Timothy Olaleke — Simplifying Cloud Infrastructure">
+  <meta property="og:description" content="Platform Engineer, SRE, Google Developer Expert for Cloud, and Founder of HostSpaceCloud.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://timtech4u.dev">
+  <meta property="og:image" content="https://timtech4u.dev/img/og.png">
 
-</div>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Doto:wght@400;700&family=Space+Grotesk:wght@300;400;500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="img/icon.png" type="image/png">
+</head>
+<body>
+
+  <!-- Chapter Progress Nav -->
+  <nav class="chapter-nav" id="chapterNav">
+    <div class="chapter-nav__progress" id="scrollProgress"></div>
+    <div class="chapter-nav__items">
+      <a href="#hero" class="chapter-nav__item active" data-section="hero">
+        <span class="chapter-nav__dot"></span>
+        <span class="chapter-nav__label">HOME</span>
+      </a>
+      <a href="#about" class="chapter-nav__item" data-section="about">
+        <span class="chapter-nav__dot"></span>
+        <span class="chapter-nav__label">ABOUT</span>
+      </a>
+      <a href="#journey" class="chapter-nav__item" data-section="journey">
+        <span class="chapter-nav__dot"></span>
+        <span class="chapter-nav__label">JOURNEY</span>
+      </a>
+      <a href="#craft" class="chapter-nav__item" data-section="craft">
+        <span class="chapter-nav__dot"></span>
+        <span class="chapter-nav__label">CRAFT</span>
+      </a>
+      <a href="#builder" class="chapter-nav__item" data-section="builder">
+        <span class="chapter-nav__dot"></span>
+        <span class="chapter-nav__label">PROJECTS</span>
+      </a>
+      <a href="#voice" class="chapter-nav__item" data-section="voice">
+        <span class="chapter-nav__dot"></span>
+        <span class="chapter-nav__label">VOICE</span>
+      </a>
+      <a href="#connect" class="chapter-nav__item" data-section="connect">
+        <span class="chapter-nav__dot"></span>
+        <span class="chapter-nav__label">CONNECT</span>
+      </a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero" id="hero">
+    <div class="dot-grid-bg"></div>
+    <div class="hero__content">
+      <p class="hero__label reveal">PLATFORM ENGINEER &nbsp;/&nbsp; SRE &nbsp;/&nbsp; GDE CLOUD</p>
+      <h1 class="hero__name reveal">
+        <span class="hero__name-line">TIMOTHY</span>
+        <span class="hero__name-line">OLALEKE</span>
+      </h1>
+      <p class="hero__tagline reveal">Simplifying Cloud Infrastructure</p>
+      <div class="hero__location reveal">
+        <svg class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+        <span>Kigali, Rwanda</span>
+      </div>
+    </div>
+    <div class="hero__scroll-hint" id="scrollHint">
+      <span>SCROLL TO EXPLORE</span>
+      <div class="hero__scroll-line"></div>
+    </div>
+  </section>
+
+  <!-- CHAPTER 01: ABOUT -->
+  <section class="section about" id="about">
+    <div class="container">
+      <p class="section__chapter reveal">CHAPTER 01</p>
+      <h2 class="section__title reveal">The Engineer</h2>
+
+      <div class="about__grid">
+        <div class="about__text reveal">
+          <p>I build cutting-edge cloud infrastructure that makes products secure, reliable, and highly available. From CI/CD pipelines to Kubernetes clusters, I design the systems that let engineering teams ship fast and sleep well.</p>
+          <p>As a Google Developer Expert for Cloud, I share what I learn through writing, open source, and speaking at communities across Africa and beyond. I founded HostSpaceCloud to make cloud hosting simple, scalable, and affordable for African businesses.</p>
+        </div>
+
+        <div class="about__stats">
+          <div class="stat-card reveal">
+            <span class="stat-card__number" data-count="9">0</span>
+            <span class="stat-card__unit">+</span>
+            <span class="stat-card__label">YEARS BUILDING</span>
+          </div>
+          <div class="stat-card reveal">
+            <span class="stat-card__number" data-count="447">0</span>
+            <span class="stat-card__unit">+</span>
+            <span class="stat-card__label">GITHUB REPOS</span>
+          </div>
+          <div class="stat-card reveal">
+            <span class="stat-card__number" data-count="6">0</span>
+            <span class="stat-card__unit">+</span>
+            <span class="stat-card__label">YEARS AS GDE</span>
+          </div>
+          <div class="stat-card reveal">
+            <span class="stat-card__number" data-count="5">0</span>
+            <span class="stat-card__unit"></span>
+            <span class="stat-card__label">CERTIFICATIONS</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CHAPTER 02: THE JOURNEY -->
+  <section class="section journey" id="journey">
+    <div class="container">
+      <p class="section__chapter reveal">CHAPTER 02</p>
+      <h2 class="section__title reveal">The Journey</h2>
+      <p class="section__subtitle reveal">From a university in Kano to cloud infrastructure across three continents.</p>
+
+      <div class="timeline">
+        <div class="timeline__line"></div>
+
+        <div class="timeline__item reveal">
+          <div class="timeline__marker"></div>
+          <div class="timeline__content">
+            <span class="timeline__date">2026 — PRESENT</span>
+            <h3 class="timeline__role">Platform Engineer</h3>
+            <p class="timeline__company">O Foundation (o.xyz)</p>
+            <p class="timeline__desc">Building the world's first free Super AI. DevOps and platform engineering for the Stealth ADE product.</p>
+          </div>
+        </div>
+
+        <div class="timeline__item reveal">
+          <div class="timeline__marker"></div>
+          <div class="timeline__content">
+            <span class="timeline__date">2024 — PRESENT</span>
+            <h3 class="timeline__role">Co-Founder & DevOps Consultant</h3>
+            <p class="timeline__company">HostSpace Cloud Solutions</p>
+            <p class="timeline__desc">Cloud PaaS for African businesses. Kubernetes Engine, Container Services, Managed Databases. Making cloud simple and affordable.</p>
+          </div>
+        </div>
+
+        <div class="timeline__item reveal">
+          <div class="timeline__marker"></div>
+          <div class="timeline__content">
+            <span class="timeline__date">2023 — 2024</span>
+            <h3 class="timeline__role">Senior Site Reliability Engineer</h3>
+            <p class="timeline__company">Diagrid</p>
+            <p class="timeline__desc">Managed cloud infrastructure for Dapr-based distributed systems. Observability, incident response, and platform reliability.</p>
+          </div>
+        </div>
+
+        <div class="timeline__item reveal">
+          <div class="timeline__marker"></div>
+          <div class="timeline__content">
+            <span class="timeline__date">2022 — 2025</span>
+            <h3 class="timeline__role">DevOps / Cloud Engineer</h3>
+            <p class="timeline__company">Energy Web Foundation & TLScontact</p>
+            <p class="timeline__desc">Contract roles building cloud infrastructure for energy decarbonization and visa processing platforms.</p>
+          </div>
+        </div>
+
+        <div class="timeline__item reveal">
+          <div class="timeline__marker"></div>
+          <div class="timeline__content">
+            <span class="timeline__date">2021 — 2023</span>
+            <h3 class="timeline__role">Site Reliability Engineer</h3>
+            <p class="timeline__company">Fireflies.ai</p>
+            <p class="timeline__desc">Infrastructure for AI-powered meeting assistant. Scaled systems handling millions of meeting transcriptions.</p>
+          </div>
+        </div>
+
+        <div class="timeline__item reveal">
+          <div class="timeline__marker"></div>
+          <div class="timeline__content">
+            <span class="timeline__date">2020 — 2021</span>
+            <h3 class="timeline__role">DevOps Engineer</h3>
+            <p class="timeline__company">Nomba (Kudi)</p>
+            <p class="timeline__desc">Infrastructure for one of Nigeria's leading fintech platforms. Payment processing, high availability, zero-downtime deployments.</p>
+          </div>
+        </div>
+
+        <div class="timeline__item reveal">
+          <div class="timeline__marker"></div>
+          <div class="timeline__content">
+            <span class="timeline__date">2019 — 2020</span>
+            <h3 class="timeline__role">Cloud & Software Engineer</h3>
+            <p class="timeline__company">Mercurie</p>
+            <p class="timeline__desc">Full-stack cloud engineering for logistics platform. First deep dive into cloud-native architecture.</p>
+          </div>
+        </div>
+
+        <div class="timeline__item reveal">
+          <div class="timeline__marker"></div>
+          <div class="timeline__content">
+            <span class="timeline__date">2019</span>
+            <h3 class="timeline__role">Google Summer of Code Intern</h3>
+            <p class="timeline__company">Ushahidi</p>
+            <p class="timeline__desc">Open source crisis-mapping platform. Where the open source journey truly began.</p>
+          </div>
+        </div>
+
+        <div class="timeline__item reveal">
+          <div class="timeline__marker timeline__marker--origin"></div>
+          <div class="timeline__content">
+            <span class="timeline__date">2017</span>
+            <h3 class="timeline__role">Founded HostSpaceNG</h3>
+            <p class="timeline__company">The Beginning</p>
+            <p class="timeline__desc">Started building cloud solutions for African businesses while still at Bayero University, Kano. DSC Lead, Django Girls organizer, community builder.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CHAPTER 03: THE CRAFT -->
+  <section class="section craft" id="craft">
+    <div class="container">
+      <p class="section__chapter reveal">CHAPTER 03</p>
+      <h2 class="section__title reveal">The Craft</h2>
+      <p class="section__subtitle reveal">Tools and technologies shaped by years of building in production.</p>
+
+      <div class="craft__grid">
+        <div class="craft__category reveal">
+          <h3 class="craft__category-title">LANGUAGES</h3>
+          <div class="craft__tags">
+            <span class="tag">Go</span>
+            <span class="tag">Python</span>
+            <span class="tag">Rust</span>
+            <span class="tag">TypeScript</span>
+            <span class="tag">Bash</span>
+          </div>
+        </div>
+
+        <div class="craft__category reveal">
+          <h3 class="craft__category-title">INFRASTRUCTURE</h3>
+          <div class="craft__tags">
+            <span class="tag">Kubernetes</span>
+            <span class="tag">Docker</span>
+            <span class="tag">Terraform</span>
+            <span class="tag">Helm</span>
+            <span class="tag">Ansible</span>
+            <span class="tag">ArgoCD</span>
+            <span class="tag">GitOps</span>
+          </div>
+        </div>
+
+        <div class="craft__category reveal">
+          <h3 class="craft__category-title">CLOUD PLATFORMS</h3>
+          <div class="craft__tags">
+            <span class="tag">Google Cloud</span>
+            <span class="tag">AWS</span>
+            <span class="tag">Azure</span>
+          </div>
+        </div>
+
+        <div class="craft__category reveal">
+          <h3 class="craft__category-title">OBSERVABILITY</h3>
+          <div class="craft__tags">
+            <span class="tag">Prometheus</span>
+            <span class="tag">Grafana</span>
+            <span class="tag">OpenTelemetry</span>
+          </div>
+        </div>
+
+        <div class="craft__category reveal">
+          <h3 class="craft__category-title">FRAMEWORKS</h3>
+          <div class="craft__tags">
+            <span class="tag">FastAPI</span>
+            <span class="tag">Django</span>
+            <span class="tag">React</span>
+            <span class="tag">Next.js</span>
+            <span class="tag">Vue.js</span>
+          </div>
+        </div>
+
+        <div class="craft__category reveal">
+          <h3 class="craft__category-title">CERTIFICATIONS</h3>
+          <div class="craft__tags">
+            <span class="tag tag--accent">CKA</span>
+            <span class="tag tag--accent">CKAD</span>
+            <span class="tag tag--accent">GCP Pro Cloud Architect</span>
+            <span class="tag tag--accent">Google Developer Expert</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CHAPTER 04: THE BUILDER -->
+  <section class="section builder" id="builder">
+    <div class="container">
+      <p class="section__chapter reveal">CHAPTER 04</p>
+      <h2 class="section__title reveal">The Builder</h2>
+      <p class="section__subtitle reveal">From cloud platforms to AI agents, always building.</p>
+
+      <div class="projects">
+        <a href="https://hostspacecloud.com" target="_blank" rel="noopener" class="project-card project-card--hero reveal">
+          <div class="project-card__header">
+            <span class="project-card__label">FEATURED PROJECT</span>
+            <svg class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg>
+          </div>
+          <h3 class="project-card__title">HostSpaceCloud</h3>
+          <p class="project-card__desc">Cloud PaaS for African businesses. Kubernetes Engine, Container Services, Managed Databases, Email Hosting. Affordable, simple cloud infrastructure with local currency payments and one-click deploys.</p>
+          <div class="project-card__tags">
+            <span class="tag tag--sm">Kubernetes</span>
+            <span class="tag tag--sm">Go</span>
+            <span class="tag tag--sm">Terraform</span>
+            <span class="tag tag--sm">PaaS</span>
+          </div>
+        </a>
+
+        <div class="projects__grid">
+          <a href="https://dev.to/timtech4u/your-ai-coding-agent-deserves-its-own-cloud-machine-1ino" target="_blank" rel="noopener" class="project-card reveal">
+            <div class="project-card__header">
+              <span class="project-card__label">AI INFRASTRUCTURE</span>
+              <svg class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg>
+            </div>
+            <h3 class="project-card__title">AI Coding Agents on Cloud VMs</h3>
+            <p class="project-card__desc">Your AI coding agent deserves its own cloud machine. How to give it dedicated compute and full autonomy.</p>
+            <div class="project-card__tags">
+              <span class="tag tag--sm">GCP</span>
+              <span class="tag tag--sm">AI Agents</span>
+              <span class="tag tag--sm">Cloud VMs</span>
+            </div>
+          </a>
+
+          <a href="https://timtech4u.medium.com" target="_blank" rel="noopener" class="project-card reveal">
+            <div class="project-card__header">
+              <span class="project-card__label">AI AGENTS</span>
+              <svg class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg>
+            </div>
+            <h3 class="project-card__title">AI Agent Mesh</h3>
+            <p class="project-card__desc">Multi-agent system with Gemini 3, routing requests to the best coding agent via Agent Client Protocol.</p>
+            <div class="project-card__tags">
+              <span class="tag tag--sm">Gemini</span>
+              <span class="tag tag--sm">ACP</span>
+              <span class="tag tag--sm">Python</span>
+            </div>
+          </a>
+
+          <a href="https://dev.to/timtech4u/your-browser-has-a-remote-control-and-nobody-told-you-5e97" target="_blank" rel="noopener" class="project-card reveal">
+            <div class="project-card__header">
+              <span class="project-card__label">BROWSER AUTOMATION</span>
+              <svg class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg>
+            </div>
+            <h3 class="project-card__title">AI Browser Control</h3>
+            <p class="project-card__desc">Your browser has a remote control. Complete guide to CDP, Playwright MCP, and agent-browser.</p>
+            <div class="project-card__tags">
+              <span class="tag tag--sm">CDP</span>
+              <span class="tag tag--sm">Playwright</span>
+              <span class="tag tag--sm">AI Agents</span>
+            </div>
+          </a>
+
+          <a href="https://github.com/Timtech4u" target="_blank" rel="noopener" class="project-card reveal">
+            <div class="project-card__header">
+              <span class="project-card__label">OPEN SOURCE</span>
+              <svg class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg>
+            </div>
+            <h3 class="project-card__title">447+ Repositories</h3>
+            <p class="project-card__desc">Active open source contributor. From Kubernetes tools to AI infrastructure, building in public on GitHub.</p>
+            <div class="project-card__tags">
+              <span class="tag tag--sm">GitHub</span>
+              <span class="tag tag--sm">Open Source</span>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CHAPTER 05: THE VOICE -->
+  <section class="section voice" id="voice">
+    <div class="container">
+      <p class="section__chapter reveal">CHAPTER 05</p>
+      <h2 class="section__title reveal">The Voice</h2>
+      <p class="section__subtitle reveal">Writing, speaking, and building communities.</p>
+
+      <div class="voice__grid">
+        <div class="voice__column">
+          <h3 class="voice__heading reveal">
+            <svg class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>
+            WRITING
+          </h3>
+
+          <a href="https://dev.to/timtech4u/your-ai-coding-agent-deserves-its-own-cloud-machine-1ino" target="_blank" rel="noopener" class="writing-card reveal">
+            <span class="writing-card__pub">DEV.TO</span>
+            <span class="writing-card__title">Your AI Coding Agent Deserves Its Own Cloud Machine</span>
+            <span class="writing-card__date">APR 2026</span>
+          </a>
+
+          <a href="https://dev.to/timtech4u/run-claude-code-on-google-cloud-use-your-gcp-credits-for-ai-coding-desktop-control-and-more-2151" target="_blank" rel="noopener" class="writing-card reveal">
+            <span class="writing-card__pub">DEV.TO</span>
+            <span class="writing-card__title">Run Claude Code on Google Cloud: Use Your GCP Credits for AI Coding</span>
+            <span class="writing-card__date">MAR 2026</span>
+          </a>
+
+          <a href="https://dev.to/timtech4u/your-browser-has-a-remote-control-and-nobody-told-you-5e97" target="_blank" rel="noopener" class="writing-card reveal">
+            <span class="writing-card__pub">DEV.TO</span>
+            <span class="writing-card__title">Your Browser Has a Remote Control — And Nobody Told You</span>
+            <span class="writing-card__date">MAR 2026</span>
+          </a>
+
+          <a href="https://timtech4u.medium.com" target="_blank" rel="noopener" class="writing-card reveal">
+            <span class="writing-card__pub">MEDIUM</span>
+            <span class="writing-card__title">Building an AI Agent Mesh with Gemini 3, OpenClaw, and ACPX</span>
+            <span class="writing-card__date">MAR 2026</span>
+          </a>
+
+          <a href="https://dev.to/timtech4u/building-ai-agents-with-google-adk-fastapi-and-mcp-26h7" target="_blank" rel="noopener" class="writing-card reveal">
+            <span class="writing-card__pub">DEV.TO</span>
+            <span class="writing-card__title">Building AI Agents with Google ADK, FastAPI, and MCP</span>
+            <span class="writing-card__date">APR 2025</span>
+          </a>
+
+          <a href="https://medium.com/hostspace-cloud-solutions" target="_blank" rel="noopener" class="writing-card reveal">
+            <span class="writing-card__pub">MEDIUM</span>
+            <span class="writing-card__title">How HostSpace is Redefining Cloud Hosting</span>
+            <span class="writing-card__date">2025</span>
+          </a>
+
+          <a href="https://blog.logrocket.com/author/timothyolaleke/" target="_blank" rel="noopener" class="writing-card reveal">
+            <span class="writing-card__pub">LOGROCKET</span>
+            <span class="writing-card__title">Technical articles on cloud, DevOps, and web development</span>
+            <span class="writing-card__date">2020 — 2023</span>
+          </a>
+        </div>
+
+        <div class="voice__column">
+          <h3 class="voice__heading reveal">
+            <svg class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="23"/><line x1="8" y1="23" x2="16" y2="23"/></svg>
+            SPEAKING & COMMUNITY
+          </h3>
+
+          <div class="speaking-card reveal">
+            <span class="speaking-card__date">MAR 2026</span>
+            <span class="speaking-card__title">Building Personalized AI Agents with Gemini, ADK, and MCP</span>
+            <span class="speaking-card__event">Build With AI Kigali / GDG Kigali</span>
+          </div>
+
+          <div class="speaking-card reveal">
+            <span class="speaking-card__date">2019</span>
+            <span class="speaking-card__title">Cloud & DevOps Talks</span>
+            <span class="speaking-card__event">DevFest Kano, Kaduna, Abuja</span>
+          </div>
+
+          <div class="speaking-card reveal">
+            <span class="speaking-card__date">2018</span>
+            <span class="speaking-card__title">Python & Open Source Workshops</span>
+            <span class="speaking-card__event">PyCon Nigeria, DevFest NorthWest, Django Girls Kano</span>
+          </div>
+
+          <div class="speaking-card reveal">
+            <span class="speaking-card__date">ONGOING</span>
+            <span class="speaking-card__title">Google Developer Expert for Cloud</span>
+            <span class="speaking-card__event">Since December 2019 — community advocacy, content creation</span>
+          </div>
+
+          <div class="speaking-card reveal">
+            <span class="speaking-card__date">2020</span>
+            <span class="speaking-card__title">BellaNaija MCM Feature</span>
+            <span class="speaking-card__event">Recognized for contributions to tech community</span>
+          </div>
+
+          <div class="speaking-card reveal">
+            <span class="speaking-card__date">2018 — 2019</span>
+            <span class="speaking-card__title">Developer Student Club Lead</span>
+            <span class="speaking-card__event">Bayero University, Kano</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CHAPTER 06: CONNECT -->
+  <section class="section connect" id="connect">
+    <div class="container">
+      <div class="connect__content">
+        <p class="section__chapter reveal">CHAPTER 06</p>
+        <h2 class="connect__title reveal">Let's Build<br>Something.</h2>
+        <p class="connect__subtitle reveal">Always open to interesting conversations about cloud, infrastructure, and what's next.</p>
+
+        <div class="connect__links reveal">
+          <a href="mailto:timothyolaleke@gmail.com" class="connect__link">
+            <svg class="icon-md" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+            <div>
+              <span class="connect__link-label">EMAIL</span>
+              <span class="connect__link-value">timothyolaleke@gmail.com</span>
+            </div>
+          </a>
+
+          <a href="https://github.com/timtech4u" target="_blank" rel="noopener" class="connect__link">
+            <svg class="icon-md" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"/><path d="M9 18c-4.51 2-5-2-7-2"/></svg>
+            <div>
+              <span class="connect__link-label">GITHUB</span>
+              <span class="connect__link-value">timtech4u</span>
+            </div>
+          </a>
+
+          <a href="https://linkedin.com/in/timtech4u" target="_blank" rel="noopener" class="connect__link">
+            <svg class="icon-md" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+            <div>
+              <span class="connect__link-label">LINKEDIN</span>
+              <span class="connect__link-value">Timothy Olaleke</span>
+            </div>
+          </a>
+
+          <a href="https://dev.to/timtech4u" target="_blank" rel="noopener" class="connect__link">
+            <svg class="icon-md" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+            <div>
+              <span class="connect__link-label">DEV.TO</span>
+              <span class="connect__link-value">timtech4u</span>
+            </div>
+          </a>
+
+          <a href="https://sessionize.com/timtech4u" target="_blank" rel="noopener" class="connect__link">
+            <svg class="icon-md" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+            <div>
+              <span class="connect__link-label">SESSIONIZE</span>
+              <span class="connect__link-value">Speaker Profile</span>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <footer class="footer">
+      <a href="https://linkedin.com/in/timtech4u" target="_blank" rel="noopener" class="footer__cta">
+        <span class="footer__cta-text">Say hello on LinkedIn</span>
+        <svg class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg>
+      </a>
+    </footer>
+  </section>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
